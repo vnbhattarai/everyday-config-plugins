@@ -12,3 +12,10 @@
 </details>
 
 ---
+
+## Table of Contents for tutorial notes:
+---
+Video / Topic                                       | Notes                    | Progress
+----------------------------------------------------| ------------------------ | --------
+[Title](https://example.com) | title                | ✅
+[Title](https://example.com) | title                | 🔲
