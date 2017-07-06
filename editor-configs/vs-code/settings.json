@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Oceanic Next Italic",
+    "workbench.iconTheme": "vs-seti",
+    "editor.fontSize": 15,
+    "editor.tabSize": 4,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "eslint.autoFixOnSave": true,
+    "editor.renderIndentGuides": false
+}
